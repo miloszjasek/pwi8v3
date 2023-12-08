@@ -1,1 +1,4 @@
-halo kolego
+halo kolego,
+
+pozdro #dopisalem pozdro
+poprawiam # dopisalem poprawiam
